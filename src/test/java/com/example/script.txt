@@ -4,7 +4,7 @@ agent any
 environment {
     DOCKER_IMAGE = "deepak340/course-registration"
 }
-
+s
 stages {
 
     stage('Clone Repository') {
